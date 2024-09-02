@@ -107,3 +107,7 @@ signals and trap
 trap will trap the signals
 
 ex: trap “echo don’t use the ctrl+c” SIGINT
+
+export :
+export = "username"
+export = token
