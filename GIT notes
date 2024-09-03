@@ -1,0 +1,19 @@
+git clone https://github.com/Satheesh1428/bash-shell.git
+
+git pull
+
+git push
+
+git commit
+
+Token creation:
+================
+settings--> developer settings --> personal access tokens --> Tokens(classic)--> generate token
+
+GIT VS GITHUB:
+
+GitHub is a web-based platform that provides hosting for Git repositories
+
+git is open-source version control system (VCS)
+Git is responsible for everything GitHub-related that happens locally on your computer
+git is a software

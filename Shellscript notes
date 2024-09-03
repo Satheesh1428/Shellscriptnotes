@@ -15,8 +15,11 @@ cat – to print the content of the file on screen.
       head  <filename> : first 10 lines it will show
       tail     <filename> : last 10 lines it will show
 sh <filename.sh>  or  ./ <filename.sh>   --- to execute a script file
-
+######################################################
 How to find command options:  man ,   ex: man ls
+# is for comment
+echo for print
+######################################################
 Memory:
 Nproc
 Free
@@ -122,5 +125,6 @@ function helper{
 
 }
 function calling helper()
+
 
 
