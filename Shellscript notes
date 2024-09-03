@@ -111,3 +111,16 @@ ex: trap “echo don’t use the ctrl+c” SIGINT
 export :
 export = "username"
 export = token
+
+Functions:
+==========
+function <function name> {
+
+}
+
+function helper{
+
+}
+function calling helper()
+
+
